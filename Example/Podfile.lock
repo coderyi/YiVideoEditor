@@ -1,0 +1,23 @@
+PODS:
+  - LLSimpleCamera (3.0.0)
+  - YiVideoEditor (0.1.0)
+
+DEPENDENCIES:
+  - LLSimpleCamera (~> 3.0)
+  - YiVideoEditor (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - LLSimpleCamera
+
+EXTERNAL SOURCES:
+  YiVideoEditor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LLSimpleCamera: 3c41b46917f9ca53b91ef9c0cf24a75ce0ab4cd8
+  YiVideoEditor: f14e190cf8c56e97be783cd8076d295e41059e7c
+
+PODFILE CHECKSUM: c299f052f68ba87cc0afeb1b89121ec37dd85c59
+
+COCOAPODS: 1.10.0
